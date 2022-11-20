@@ -1,7 +1,7 @@
 # convertreceipttotext
 
 - This project does convert SaaS systems json receipt file to text.
-- Firstl run project and select receipt.json file on your computer.
+- Firstly run project and select receipt.json file on your computer.
 
 # fişimetnedönüştür
 
