@@ -26,7 +26,7 @@ namespace ConvertReceiptToText
             if (file.ShowDialog() == DialogResult.OK)
             {
                 ReceiptManager.Receiptmanager.path = file.FileName;
-                Form1 form = new Form1();
+                Form2 form = new Form2();
                 form.Show();
             }
         }
